@@ -1,0 +1,18 @@
+
+.panelright {
+    width: 50%;
+    float: right;
+    background-color: #FF6600;  
+    height: 800px;
+
+}
+
+.panelleft {
+    width: 50%;
+    float: left;     
+    background-color: coral;  
+    height: 800px;
+    background-image: url('city2.jpg');
+    background-size:cover;
+    
+}
